@@ -13,6 +13,7 @@
 		FE9B245A29DEAF900013081F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE9B245829DEAF900013081F /* Main.storyboard */; };
 		FE9B245C29DEAF910013081F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE9B245B29DEAF910013081F /* Assets.xcassets */; };
 		FE9B245F29DEAF910013081F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE9B245D29DEAF910013081F /* LaunchScreen.storyboard */; };
+		FE9B246729DEB1CB0013081F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9B246629DEB1CB0013081F /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE9B245B29DEAF910013081F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE9B245E29DEAF910013081F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE9B246029DEAF910013081F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE9B246629DEB1CB0013081F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				FE9B245229DEAF900013081F /* AppDelegate.swift */,
 				FE9B245429DEAF900013081F /* SceneDelegate.swift */,
+				FE9B246629DEB1CB0013081F /* SecondViewController.swift */,
 				FE9B245629DEAF900013081F /* ViewController.swift */,
 				FE9B245829DEAF900013081F /* Main.storyboard */,
 				FE9B245B29DEAF910013081F /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE9B246729DEB1CB0013081F /* SecondViewController.swift in Sources */,
 				FE9B245729DEAF900013081F /* ViewController.swift in Sources */,
 				FE9B245329DEAF900013081F /* AppDelegate.swift in Sources */,
 				FE9B245529DEAF900013081F /* SceneDelegate.swift in Sources */,
